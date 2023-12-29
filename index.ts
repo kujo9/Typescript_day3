@@ -17,7 +17,7 @@ class Shopper {
     constructor(name: string, age: number) {
         this.id = uuid.v4();
         this.name = name;
-        this.age = age;
+        this.age = age;tion
         this.cart = [];
 }
 function shopper(name: string, age: number): User {
